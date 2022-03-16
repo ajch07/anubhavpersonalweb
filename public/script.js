@@ -15,7 +15,7 @@ gsap.fromTo('.logo-div',{x:0,opacity:0}, {
         // markers: true
         
     },
-    x: 100,
+    x: "50%",
     opacity:1,
     duration: 2,
     ease:"power4"
@@ -41,7 +41,7 @@ gsap.fromTo('.logo-div-2',{x:0,opacity:0}, {
         // markers: true
         
     },
-    x: -100,
+    x: "-20%",
     opacity:1,
     duration: 2,
     ease:"power4"
@@ -54,7 +54,7 @@ gsap.fromTo('.logo-div-3',{x:0,opacity:0}, {
         // markers: true
         
     },
-    x: 200,
+    x: "50%",
     opacity:1,
     duration: 2,
     ease:"power4"
@@ -67,7 +67,7 @@ gsap.fromTo('.logo-div-4',{x:0,opacity:0}, {
         // markers: true
         
     },
-    x: -100,
+    x: "-20%",
     opacity:1,
     duration: 2,
     ease:"power4"
@@ -82,7 +82,7 @@ gsap.fromTo('.logo-div-5',{x:0,opacity:0}, {
     end: "bottom 5%",
         
     },
-    x: 200,
+    x: "50%",
     opacity:1,
     duration: 2,
     ease:"power4"

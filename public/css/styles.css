@@ -402,39 +402,149 @@ html-heading
     } */
     /* .footer
     {
-        padding-left:15%;
-        padding-right: 15%;
-        width: 100%;
+        
+        text-align: center;
         align-items: centre;
+        width: 100vw;
+        
     } */
-    /* .tree
+    .contact-me
+    {
+        align-items: center;
+    }
+    .tree
     {
         
         margin-left: 0%;
-        width: 100%;
-        height: 100%;
+        width: 100vw;
         
-    } */
+        
+        
+    }
     .treemid
    {
-    margin-left: 0%;
-    position: absolute;
-   width: 40%;
+    margin-right: 40vw;
+    
+    text-align: center;
+    width:85vw;
+    margin-bottom: 200vw;
+
     
     
     
    }
-    /* .link
+    .help
+   {
+       font-size: 12vw;
+       text-align: center;
+   } 
+   .freelance{
+       text-align: center;
+       margin-left: 40%;
+       font-size: 7vw;
+       width:20vw
+
+   }
+    .link
     {
-        padding: 10px;
-    } */
-    /* .logo-div-2
+        font-size:6vw;
+    }
+    .logo-div-2
     {
         text-align: center;
         width: 50%;
-        margin-left: 15%;
-    } */
-    
+        margin-left: 45%;
+    }
+    .node-heading{
+        font-size: 12vw;
+    }
+    .nodejs-text
+    {
+        font-size: 7vw;
+    }
+    .html-heading
+    {
+        font-size:12vw;
+    }
+    .html-css-js-des
+    {
+        font-size: 7vw;
+    }
+    .Nodejs-logo
+    {
+        width:40vw;
+    }
+    .logo-div-3{
+        margin-right:35vw ;
+    }
+    .logo-div-4
+    {
+    margin-left: 45vw;
+    }
+    .logo-div
+    {
+        margin-right: 10vw;
+        
+    } 
+    .myname
+    {
+        font-size: 14vw;
+    }
+    .mywork
+    {
+        font-size: 9vw;
+    }
+    .pro
+    {
+        width:50vw;
+    }
+    .hello
+    {
+        font-size: 12vw;
+    }
+    .college
+    {
+        font-size: 7vw;
+    }
+    .tools
+    {
+        font-size: 14vw;
+    }
+    .tool
+    {
+        font-size: 12vw;
+    }
+    .hrinmiddle
+    {
+        width:20%;
+        border-width: 0vw 0vw 3vw 0vw;
+    }
+    .hrinmiddle2
+    {
+        
+        width:20%;
+        border-width: 0vw 0vw 3vw 0vw;
+    }
+    .footerhr
+    {
+        width:20%;
+        border-width: 0vw 0vw 3vw 0vw;
+        margin-top: 60vw;
+    }
+    .afterheader
+    {
+        width:20%;
+        border-width: 0vw 0vw 3vw 0vw;
+    }
+    .get
+    {
+        font-size: 12vw;
+    }
+    .mail
+    {
+        width:30vw;
+        margin-top: 25vw;
+    }
     /* .nodejs-text
     {
         text-align: center;
@@ -462,7 +572,33 @@ html-heading
         margin-right: 25%;
     } 
      */
-   
+   .moon
+   {
+       width:40vw;
+       margin-right: 0%;
+       margin-bottom: 4vw;
+   }
+   .sun
+   {
+       width:40vw;
+       margin-right: 0%;
+       margin-bottom: 4vw;
+   }
+   .html-logo{
+       width:40vw;
+   }
+   .gsap-logo
+   {
+       width:40vw;
+   }
+   .ejs-logo
+   {
+       width:40vw;
+   }
+   .github-logo
+   {
+       width:40vw;
+   }
     
 }
 

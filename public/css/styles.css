@@ -1,0 +1,474 @@
+/*************************************************TAG SELECTOR****************************/
+body
+{
+    text-align: center;
+   
+    margin:0px;
+}
+hr
+{
+    border-style: dotted;
+    width: 4%;
+    background-color:#fff;
+    
+    
+   margin: 100px auto;
+    border-color: #40514E;
+}
+
+/*************************************************CLASS SELECTOR****************************/
+.afterheader
+{
+    border-style: dotted;
+    width: 4%;
+    background-color:#E4F9F5;
+    border-width: 0vw 0vw 0.6vw 0vw;
+    
+   
+    border-color: #40514E;
+}
+
+
+.btn
+{
+    
+    color: #40514E;
+    margin-right: 10%;
+    
+    
+    
+   
+    
+}
+.btn1 {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+    background-image -moz-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+    background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Birthstone', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin:20px 20px 
+  }
+  
+  .btn1:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+/*.btn:hover
+{
+    opacity: 0.60;
+}*/
+.button-div
+{
+    background-color: #fff;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    
+    
+    font-family: 'Birthstone', cursive;
+    font-size: x-large;
+}
+.big-div-footer
+{
+    background-color: #fff;
+}
+.contactme
+{
+    
+    color: #40514E;
+    font-size:xx-large;
+    
+    
+}
+.contactme:hover
+{
+    opacity: 0.60;
+}
+.college
+{
+    font-size: 2vw;
+    margin-left: 10%;
+
+
+}
+.copyright
+{
+    color: #8f8f8f;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 60px;
+    padding-bottom: 10px;
+    
+}
+.course
+{
+    font-size: 1.7vw;
+    margin-left: 40%;
+}
+.ejs-logo
+{
+    float: right;
+    width: 10%;
+   margin-right: 35%;
+   
+    
+}
+
+.first
+{
+   
+    
+    
+}
+.footer
+{
+    background-color: #40514E;
+    font-family: 'Sacramento', cursive;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.footerhr{
+    border-style: dotted;
+    width: 4%;
+    background-color:white;
+    border-width: 0vw 0vw 0.6vw 0vw;
+}
+
+.footerlink
+{
+    font-size: x-large;
+    color: #30E3CA;
+    text-align: center;
+    
+
+}
+.freelance
+{
+    font-style: italic;
+    color: #E4F9F5;
+    font-size: 2vw;
+    margin-left: 18%;
+    margin-bottom: 20px;
+}
+
+.get
+{
+    font-family: 'Birthstone', cursive;
+    font-size: 3vw;
+}
+.github-logo{
+    width:15%;
+    float: left;   
+    text-align: center;
+    margin-left: 25%;
+}
+.gsap-logo
+{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-left: 30%;
+
+}
+.header
+{
+    width: 100%;
+    height: 100%;
+    background-color:#E4F9F5 ;
+    margin-right: 0px;
+    padding: 0px;
+    font-family: 'Sacramento', cursive;
+    
+}
+.hello
+{
+    display: inline;
+    color: #8f8f8f;
+    font-size: 3vw;
+    font-family: 'Sacramento', cursive;
+}
+.help
+{
+    font-style: italic;
+    color: #E4F9F5;
+    font-size: 5vw;
+}
+.hrinmiddle{
+    border-style: dotted;
+    width: 4%;
+    background-color:white;
+    border-width: 0vw 0vw 0.6vw 0vw;
+
+}
+.hrinmiddle2{
+    border-style: dotted;
+    width: 4%;
+    background-color:white;
+    border-width: 0vw 0vw 0.6vw 0vw;
+
+}
+.html-css-js-des
+{
+    line-height: 2;
+}
+.html-logo
+{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-left: 25%;
+
+}
+html-heading
+{
+    
+    
+}
+.link
+{
+    text-decoration: none;
+    text-align: left;
+    font-size: 2vw;
+    padding-right:4vw ;
+    color: #40514E;
+    
+}
+.link:hover
+{
+    color: #8f8f8f;
+}
+.link-div
+{
+    width: 50%;
+    margin-left: 27%;   
+}
+
+.logo-div
+{
+    width:50%
+    
+}
+.logo-div-2
+{
+    text-align: right;
+    
+    
+    
+}
+.logo-div-3
+{
+    width:50%;
+    text-align: center;
+    
+    
+    
+}
+.logo-div-5{
+    width:50%;
+    text-align: center;
+}
+.mail
+{
+    
+    margin-top: 13%;
+    margin-left: 18%;
+    position:relative;
+    width: 13%;
+}
+.mail:hover
+{
+    opacity: 0.70;
+}
+
+.myname
+{
+    
+    font-style: italic;
+    color: #30E3CA;
+    font-size: 5vw;
+
+}
+.mywork
+{
+
+    font-style: italic;
+    color: #30E3CA;
+    font-size:3vw;
+}
+.middle
+{
+    background-color:#fff ;
+    color: #8f8f8f;
+    font-family: 'Birthstone', cursive;
+    /* height: 100%; */
+    margin-right: 0px;
+    padding: 0px;
+    text-align: center;
+    /* width: 100%; */
+    margin-bottom: 0px;
+    
+
+}
+.Nodejs-logo
+{
+    float: right;
+    width: 8%;
+   margin-right: 35%;
+   
+    
+}
+.node-heading-1
+{
+  text-align: center;
+  margin-left: 25%;
+}
+.profile
+{
+    padding-top: 20px;  
+    
+}
+.pro{
+    width:16%;
+    
+}
+.skilldes
+{
+    font-family: 'Birthstone', cursive;
+}
+.skills
+{
+    text-align: center;
+    font-size: 1.5vw;
+}
+.stone
+{
+    margin-left: 70%;
+    
+}
+.sun
+{
+    margin-right: 60%;
+    width:13.5%;
+}
+.tool{
+    display: inline;
+}
+.tools{
+    display: inline;
+}
+.tree
+{
+    margin-left:50%;
+    width: 40%;
+    
+}
+.treemid
+{
+    position: absolute;
+    width: 42%;
+}
+/* ****************mobile-site*********************** */
+ @media (max-width:600px)
+{
+    /* .header
+    {
+        padding-left:15%;
+        padding-right: 15%;
+        width: 100%;
+        align-items: center;
+
+    } */
+    /* .middle
+    {
+        padding-left:15%;
+        padding-right: 15%;
+        width: auto;
+        align-items: center;
+    } */
+    /* .footer
+    {
+        padding-left:15%;
+        padding-right: 15%;
+        width: 100%;
+        align-items: centre;
+    } */
+    /* .tree
+    {
+        
+        margin-left: 0%;
+        width: 100%;
+        height: 100%;
+        
+    } */
+    .treemid
+   {
+    margin-left: 0%;
+    position: absolute;
+   width: 40%;
+    
+    
+    
+   }
+    /* .link
+    {
+        padding: 10px;
+    } */
+    /* .logo-div-2
+    {
+        text-align: center;
+        width: 50%;
+        margin-left: 15%;
+    } */
+    
+    /* .nodejs-text
+    {
+        text-align: center;
+    } */
+    /* .Nodejs-logo
+    {
+        
+        margin: auto;
+    } */
+    /* .logo-div
+    {
+        margin-left:25% ;
+    } */
+    /* .mail
+    {
+        position: relative;
+        margin-left: 45%;
+        margin-top: 78%;
+        text-align: left;
+        
+    } */
+    /* .contact-me
+    {
+        width: 50%;
+        margin-right: 25%;
+    } 
+     */
+   
+    
+}
+
+
+
+
+
+
+
